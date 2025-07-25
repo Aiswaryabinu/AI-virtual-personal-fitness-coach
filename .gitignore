@@ -1,0 +1,33 @@
+# Python cache and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+fitnessenv/
+.env
+.venv/
+env/
+venv/
+
+# Streamlit & temporary files
+.streamlit/
+*.csv
+*.db
+*.sqlite
+*.pkl
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Distribution folders
+dist/
+.dist/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Jupyter/Notebook remnants (if ever used)
+.ipynb_checkpoints/
